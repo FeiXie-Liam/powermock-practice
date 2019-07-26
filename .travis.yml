@@ -1,6 +1,6 @@
 env:
   global:
-    - CODECOV_TOKEN="56c70bee-2809-43bc-b6a0-50f350baa843"
+    - CODECOV_TOKEN="5915cb78-f85d-475e-a703-8525a8771270"
 language: java
 
 script: ./gradlew clean check
